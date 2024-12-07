@@ -31,9 +31,9 @@
 
 ## how to test my application.
 
--1: clone my repository.
--2: open a terminal and run "npm install expo".
--3: open an integrated terminal in package.json, and run "npx exp", after it, press "w" to select web test
--4: test the application
+-**1**: clone my repository.
+-**2**: open a terminal and run "npm install expo".
+-**3**: open an integrated terminal in package.json, and run "npx exp", after it, press "w" to select web test
+-**4**: test the application
 
 Solo Deveoper
